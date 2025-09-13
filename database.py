@@ -2,7 +2,7 @@ from motor.motor_asyncio import AsyncIOMotorClient
 from pymongo.errors import ConnectionFailure
 import logging
 
-MONGO_URL = "mongodb+srv://ayushgupta23332_db_user:UpjVGHw90RDpRU13@employees.h8pymqt.mongodb.net/"
+MONGO_URL = "Your MongoDB atlas URL"
 DATABASE_NAME = "assessment_db"
 COLLECTION_NAME = "employees"
 

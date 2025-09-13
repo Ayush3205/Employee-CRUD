@@ -47,6 +47,7 @@ employee-management-api/
 ├── requirements.txt
 ├── README.md
 └── routers
+In database.py add your MongoDB Atlas URL
 ```
 
 ### Step 3: Set Up Python Virtual Environment

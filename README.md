@@ -46,8 +46,7 @@ employee-management-api/
 ├── models.py
 ├── requirements.txt
 ├── README.md
-└── routers/
-    └── employees.py
+└── routers
 ```
 
 ### Step 3: Set Up Python Virtual Environment
